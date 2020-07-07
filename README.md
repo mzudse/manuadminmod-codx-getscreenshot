@@ -1,4 +1,4 @@
-# manuadminmod_codx_getscreenshot
+# manuadminmod-codx-getscreenshot
 
 Tested with ManuAdminMod v0.11.5 beta.
 
@@ -12,3 +12,6 @@ $mod->registerCommand("getss", '~^getss \S.*$~i',"getss", $commands_basic);
 ```
 get_screenshot.php
 ```
+
+
+## No support. Im just uploading a few useful scripts/snippets currently. Files could be from 2015.
